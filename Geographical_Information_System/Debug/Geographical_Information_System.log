@@ -1,0 +1,5 @@
+﻿  BST.cpp
+D:\College\Algorithms & Computation\GISCA3\Geographical_Information_System\Geographical_Information_System\BST.cpp(293,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TreeNode.cpp
+  Generating Code...
+  Geographical_Information_System.vcxproj -> D:\College\Algorithms & Computation\GISCA3\Geographical_Information_System\Debug\Geographical_Information_System.exe

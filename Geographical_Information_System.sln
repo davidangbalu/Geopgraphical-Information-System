@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Geographical_Information_System", "Geographical_Information_System\Geographical_Information_System.vcxproj", "{078392EE-64A1-473F-B440-78F69EAD8332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{078392EE-64A1-473F-B440-78F69EAD8332}.Debug|x64.ActiveCfg = Debug|x64
+		{078392EE-64A1-473F-B440-78F69EAD8332}.Debug|x64.Build.0 = Debug|x64
+		{078392EE-64A1-473F-B440-78F69EAD8332}.Debug|x86.ActiveCfg = Debug|Win32
+		{078392EE-64A1-473F-B440-78F69EAD8332}.Debug|x86.Build.0 = Debug|Win32
+		{078392EE-64A1-473F-B440-78F69EAD8332}.Release|x64.ActiveCfg = Release|x64
+		{078392EE-64A1-473F-B440-78F69EAD8332}.Release|x64.Build.0 = Release|x64
+		{078392EE-64A1-473F-B440-78F69EAD8332}.Release|x86.ActiveCfg = Release|Win32
+		{078392EE-64A1-473F-B440-78F69EAD8332}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20A30678-A978-477D-8938-9489AE1F2E80}
+	EndGlobalSection
+EndGlobal
